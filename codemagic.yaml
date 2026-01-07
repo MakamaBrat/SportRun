@@ -38,7 +38,7 @@ workflows:
           -batchmode -quit -returnLicense || true
 
     artifacts:
-      - Ice-Run.aab
-      - Ice-Run.apk
+      - SportRun.aab
+      - SportRun.apk
       - unity_build.log
       - unity_license.log
